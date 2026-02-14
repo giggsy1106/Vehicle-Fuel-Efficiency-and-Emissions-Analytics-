@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Vehicle Fuel Efficiency Dashboard</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f7f8;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #004d66;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            background-color: white;
+            margin: 20px auto;
+            padding: 20px;
+            max-width: 1100px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h2 {
+            color: #004d66;
+            margin-bottom: 10px;
+        }
+        .description {
+            font-size: 17px;
+            margin-bottom: 15px;
+            color: #333;
+            line-height: 1.6;
+        }
+        .report-frame {
+            width: 100%;
+            height: 800px;
+            border: none;
+            border-radius: 10px;
+        }
+        .page-info {
+            font-size: 13px;
+            color: #999;
+            text-align: right;
+            margin-top: 5px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Vehicle Fuel Efficiency and CO₂ Emissions Dashboard</h1>
+</header>
+
+<!-- SECTION 1: Most Fuel-Efficient Car Companies -->
+<section>
+    <h2>🏢 Top 10 Fuel Efficient Vehicle Companies</h2>
+    <p class="description">
+        This chart shows which car companies make the most fuel-efficient vehicles. 
+        These companies help reduce fuel costs and pollution.
+    </p>
+    <iframe 
+        class="report-frame"
+        title="Top Companies" 
+        src="https://app.powerbi.com/reportEmbed?reportId=cc5ef4f7-fef4-4777-97de-1c5783301673&pageName=VehicleCompanies&autoAuth=true&ctid=e9b87214-8e8f-4ad0-90ec-9d5c56c94931" 
+        allowFullScreen="true">
+    </iframe>
+    <div class="page-info">Page Name: VehicleCompanies</div>
+</section>
+
+<!-- SECTION 2: Most Fuel-Efficient Vehicles -->
+<section>
+    <h2>🚗 Top 10 Fuel Efficient Vehicles</h2>
+    <p class="description">
+        Here you can see the top 10 cars that gives a great mileage. 
+        These vehicles will save your fuel expenses.
+    </p>
+    <iframe 
+        class="report-frame"
+        title="Top Vehicles" 
+        src="https://app.powerbi.com/reportEmbed?reportId=cc5ef4f7-fef4-4777-97de-1c5783301673&pageName=FuelEfficient&autoAuth=true&ctid=e9b87214-8e8f-4ad0-90ec-9d5c56c94931" 
+        allowFullScreen="true">
+    </iframe>
+    <div class="page-info">Page Name: FuelEfficient</div>
+</section>
+
+<!-- SECTION 3: Fuel Type Distribution -->
+<section>
+    <h2>🛢️ Vehicle Fuel Type Distribution</h2>
+    <p class="description">
+        This chart shows what types of fuel cars use — like gas, diesel, electricity, or hybrid. 
+        It helps us see how many cars are electric or traditional.
+    </p>
+    <iframe 
+        class="report-frame"
+        title="Fuel Type" 
+        src="https://app.powerbi.com/reportEmbed?reportId=cc5ef4f7-fef4-4777-97de-1c5783301673&pageName=FuelType&autoAuth=true&ctid=e9b87214-8e8f-4ad0-90ec-9d5c56c94931" 
+        allowFullScreen="true">
+    </iframe>
+    <div class="page-info">Page Name: FuelType</div>
+</section>
+
+<!-- SECTION 4: Fuel vs Electric Sales -->
+<section>
+    <h2>🔋 Fuel vs Electric Car Sales</h2>
+    <p class="description">
+        This graph compares how many fuel-powered cars and electric cars were sold each year. 
+        You can see how electric cars are becoming more popular.
+    </p>
+    <iframe 
+        class="report-frame"
+        title="Fuel vs Electric" 
+        src="https://app.powerbi.com/reportEmbed?reportId=cc5ef4f7-fef4-4777-97de-1c5783301673&pageName=FuelVsElectric&autoAuth=true&ctid=e9b87214-8e8f-4ad0-90ec-9d5c56c94931" 
+        allowFullScreen="true">
+    </iframe>
+    <div class="page-info">Page Name: FuelVsElectric</div>
+</section>
+
+<!-- SECTION 5: CO₂ Emissions by State -->
+<section>
+    <h2>🗺️ CO₂ Emissions by State</h2>
+    <p class="description">
+        This map shows how much CO₂ is released by cars in different U.S. states. 
+        It helps identify states with more vehicle pollution.
+    </p>
+    <iframe 
+        class="report-frame"
+        title="CO2 by State" 
+        src="https://app.powerbi.com/reportEmbed?reportId=cc5ef4f7-fef4-4777-97de-1c5783301673&pageName=CO2StateMap&autoAuth=true&ctid=e9b87214-8e8f-4ad0-90ec-9d5c56c94931" 
+        allowFullScreen="true">
+    </iframe>
+    <div class="page-info">Page Name: CO2StateMap</div>
+</section>
+
+<!-- SECTION 6: CO₂ vs Temperature -->
+<section>
+    <h2>🌡️ CO₂ vs Average Temperature</h2>
+    <p class="description">
+        This chart compares CO₂ levels in the air with average temperatures. 
+        It helps us understand how pollution may affect climate.
+    </p>
+    <iframe 
+        class="report-frame"
+        title="CO2 vs Temp" 
+        src="https://app.powerbi.com/reportEmbed?reportId=cc5ef4f7-fef4-4777-97de-1c5783301673&pageName=CO2vsTemp&autoAuth=true&ctid=e9b87214-8e8f-4ad0-90ec-9d5c56c94931" 
+        allowFullScreen="true">
+    </iframe>
+    <div class="page-info">Page Name: CO2vsTemp</div>
+</section>
+
+</body>
+</html>
