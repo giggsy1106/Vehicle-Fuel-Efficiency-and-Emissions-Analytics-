@@ -1,0 +1,111 @@
+year,avg_temperature_c,city,state
+2015,11.3,New York,NY
+2016,10.7,New York,NY
+2017,11.1,New York,NY
+2018,10.7,New York,NY
+2019,11.1,New York,NY
+2020,11.2,New York,NY
+2021,11.4,New York,NY
+2022,11.9,New York,NY
+2023,12.0,New York,NY
+2024,11.8,New York,NY
+2025,11.4,New York,NY
+2015,15.7,Los Angeles,CA
+2016,16.1,Los Angeles,CA
+2017,15.8,Los Angeles,CA
+2018,16.1,Los Angeles,CA
+2019,16.3,Los Angeles,CA
+2020,16.7,Los Angeles,CA
+2021,15.9,Los Angeles,CA
+2022,16.7,Los Angeles,CA
+2023,16.2,Los Angeles,CA
+2024,16.6,Los Angeles,CA
+2025,16.4,Los Angeles,CA
+2015,16.9,Chicago,IL
+2016,17.1,Chicago,IL
+2017,16.9,Chicago,IL
+2018,16.8,Chicago,IL
+2019,17.0,Chicago,IL
+2020,17.1,Chicago,IL
+2021,17.5,Chicago,IL
+2022,17.1,Chicago,IL
+2023,17.6,Chicago,IL
+2024,17.3,Chicago,IL
+2025,17.6,Chicago,IL
+2015,14.1,Houston,TX
+2016,14.3,Houston,TX
+2017,14.1,Houston,TX
+2018,14.2,Houston,TX
+2019,13.9,Houston,TX
+2020,14.5,Houston,TX
+2021,14.2,Houston,TX
+2022,15.1,Houston,TX
+2023,14.9,Houston,TX
+2024,15.1,Houston,TX
+2025,15.0,Houston,TX
+2015,18.3,Dallas,TX
+2016,18.3,Dallas,TX
+2017,18.7,Dallas,TX
+2018,18.6,Dallas,TX
+2019,19.1,Dallas,TX
+2020,18.9,Dallas,TX
+2021,19.0,Dallas,TX
+2022,19.4,Dallas,TX
+2023,19.7,Dallas,TX
+2024,19.5,Dallas,TX
+2025,19.4,Dallas,TX
+2015,11.8,San Jose,CA
+2016,11.9,San Jose,CA
+2017,12.6,San Jose,CA
+2018,12.1,San Jose,CA
+2019,12.3,San Jose,CA
+2020,12.6,San Jose,CA
+2021,12.4,San Jose,CA
+2022,13.0,San Jose,CA
+2023,12.5,San Jose,CA
+2024,12.9,San Jose,CA
+2025,12.8,San Jose,CA
+2015,14.7,Phoenix,AZ
+2016,14.3,Phoenix,AZ
+2017,14.5,Phoenix,AZ
+2018,15.0,Phoenix,AZ
+2019,15.0,Phoenix,AZ
+2020,14.8,Phoenix,AZ
+2021,15.4,Phoenix,AZ
+2022,15.4,Phoenix,AZ
+2023,15.2,Phoenix,AZ
+2024,15.6,Phoenix,AZ
+2025,15.4,Phoenix,AZ
+2015,16.7,Philadelphia,PA
+2016,16.6,Philadelphia,PA
+2017,16.9,Philadelphia,PA
+2018,17.4,Philadelphia,PA
+2019,16.9,Philadelphia,PA
+2020,17.1,Philadelphia,PA
+2021,16.9,Philadelphia,PA
+2022,17.2,Philadelphia,PA
+2023,17.9,Philadelphia,PA
+2024,17.3,Philadelphia,PA
+2025,17.9,Philadelphia,PA
+2015,12.3,San Antonio,TX
+2016,12.8,San Antonio,TX
+2017,12.6,San Antonio,TX
+2018,13.1,San Antonio,TX
+2019,12.3,San Antonio,TX
+2020,13.1,San Antonio,TX
+2021,12.6,San Antonio,TX
+2022,13.2,San Antonio,TX
+2023,13.3,San Antonio,TX
+2024,13.1,San Antonio,TX
+2025,13.5,San Antonio,TX
+2015,16.6,San Diego,CA
+2016,16.7,San Diego,CA
+2017,16.9,San Diego,CA
+2018,16.7,San Diego,CA
+2019,17.0,San Diego,CA
+2020,16.5,San Diego,CA
+2021,16.8,San Diego,CA
+2022,17.2,San Diego,CA
+2023,17.2,San Diego,CA
+2024,17.0,San Diego,CA
+2025,17.3,San Diego,CA
